@@ -1,1 +1,2 @@
-print("hello, world!"i)
+print("hello, world!")
+print("hello ,test")
